@@ -1,0 +1,14 @@
+.header: {
+	display: flex;
+	height: 5%;
+	justify-content: center;
+}
+.hItem{
+	
+}
+@media all and (max-width: 800px){
+
+}
+@media all and (max-width: 500px){
+
+}
